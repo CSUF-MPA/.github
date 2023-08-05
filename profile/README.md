@@ -1,4 +1,4 @@
-# Welcome to the Public Administration Program at Cal State Fullerton
+# Welcome to [@dadams-AU](https://github.com/dadams-AU)'s Public Administration Program at Cal State Fullerton GitHub
 
 This organization hosts a collection of resources for students, faculty, and anyone interested in the Public Administration program at California State University, Fullerton. You'll find syllabi, orientation presentations, student handbooks, and more!
 

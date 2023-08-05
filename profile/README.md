@@ -1,6 +1,5 @@
-# Welcome to [@dadams-AU](https://github.com/dadams-AU)'s Public Administration Program at Cal State Fullerton GitHub
+# Welcome to [@dadams-AU](https://github.com/dadams-AU)'s organization site for information related to the CSUF Public Adminstration program. 
 
-This organization hosts a collection of resources for students, faculty, and anyone interested in the Public Administration program at California State University, Fullerton. You'll find syllabi, orientation presentations, student handbooks, and more!
 
 ## Table of Contents
 
@@ -16,21 +15,21 @@ Explore the syllabi for both undergraduate and graduate courses in Public Admini
 
 - **[Access the Syllabi Repository](link-to-syllabi-repository)**
 
-## Orientation Reveal Presentation
+## Freshman Orientation Reveal Presentation
 
-Get a detailed overview of the Public Administration program with our orientation reveal presentation. Whether you're a new student or just curious about the program, this is the place to start.
+Freshmen orientation to the BAPA reveal presentation. Whether you're a new student or just curious about the program, this is the place to start.
 
 - **[View the Orientation Presentation](https://csuf-mpa.github.io/bapa-orientation/)**
 
-## Student Handbook
+## MPA Student Handbook
 
-Our student handbook provides essential information on policies, procedures, and resources for success in the Public Administration program.
+Our MPA graduate student handbook provides essential information on policies, procedures, and resources for success in the Master of Public Administration program.
 
 - **[Download the Student Handbook](https://hss.fullerton.edu/paj/_resources/pdfs/MPA%20Student%20Handbook%202021-2022.pdf)**
 
 ## Upcoming Additions
 
-We're constantly working to improve and expand our offerings. Stay tuned for more repositories containing lecture notes, assignments, and other educational resources.
+I'm working to improve and expand what's offered here. More repositories containing lecture notes, assignments, and other educational resources are coming.
 
 ## Contact Information
 

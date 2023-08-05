@@ -1,4 +1,4 @@
-# Welcome to [@dadams-AU](https://github.com/dadams-AU)'s organization site for information related to the CSUF Public Adminstration program. 
+# Welcome to [@dadams-AU](https://github.com/dadams-AU)'s GitHub organization site for information related to the CSUF Public Adminstration program. 
 
 
 ## Table of Contents

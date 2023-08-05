@@ -13,7 +13,7 @@
 
 Explore the syllabi for both undergraduate and graduate courses in Public Administration and Public Policy. Perfect for students planning their academic journey.
 
-- **[Access the Syllabi Repository](link-to-syllabi-repository)**
+- **[Access the Syllabi Repository](https://github.com/CSUF-MPA/courses)**
 
 ## Freshman Orientation Reveal Presentation
 
